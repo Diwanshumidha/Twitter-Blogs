@@ -1,0 +1,68 @@
+/* Heading sizes */
+.reset_prelight h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .reset_prelight h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .reset_prelight h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .reset_prelight h4 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .reset_prelight h5 {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .reset_prelight h6 {
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Default list styles */
+  .reset_prelight ul {
+    list-style-type: disc; /* Bullet points */
+    margin-left: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .reset_prelight ol {
+    list-style-type: decimal; /* Numbered list */
+    margin-left: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .reset_prelight li {
+    margin-bottom: 5px;
+  }
+  
+  /* Link styles */
+  .reset_prelight a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  /* Line heights */
+  .reset_prelight p,
+  .reset_prelight ul,
+  .reset_prelight ol,
+  .reset_prelight li {
+    line-height: 1.5;
+  }
+  
